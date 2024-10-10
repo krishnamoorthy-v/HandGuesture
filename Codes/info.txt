@@ -1,0 +1,4 @@
+bitwise_xor()
+
+Canny is used for edge detection
+    canny(frame, thresholdlow, thresholdhigh)
